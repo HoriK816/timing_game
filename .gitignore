@@ -1,2 +1,5 @@
+## Editors
+.*.sw[op]
+
 ## Python
 *.pyc
